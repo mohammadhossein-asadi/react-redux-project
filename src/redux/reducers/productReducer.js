@@ -4,7 +4,7 @@ const initialState = {
   products: [
     {
       id: 1,
-      title: "Mohammadhossein",
+      title: "iphone 13 pro max",
       category: "programmer",
     },
   ],
